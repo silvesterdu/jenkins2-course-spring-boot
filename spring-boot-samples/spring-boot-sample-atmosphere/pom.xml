@@ -12,8 +12,8 @@
 	<description>Spring Boot Atmosphere Sample</description>
 	<url>http://projects.spring.io/spring-boot/</url>
 	<organization>
-		<name>Pivotal Software, Inc.</name>
-		<url>http://www.spring.io</url>
+		<name>SILVESTER CORP</name>
+		<url>http://www.nowhere.com</url>
 	</organization>
 	<properties>
 		<main.basedir>${basedir}/../..</main.basedir>
